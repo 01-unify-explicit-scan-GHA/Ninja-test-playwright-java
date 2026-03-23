@@ -94,7 +94,7 @@ public class PageScreenshot {
 }
 ```
 
-#### Mobile and geolocation
+#### Mobile and geolocation 
 
 This snippet emulates Mobile Chromium on a device at a given geolocation, navigates to openstreetmap.org, performs action and takes a screenshot.
 
