@@ -30,7 +30,7 @@ Headless execution is supported for all the browsers on all platforms. Check out
 
 ## Usage
 
-Playwright requires **Java 8** or newer.
+Playwright requires **Java 8** or newer. 
 
 #### Add Maven dependency
 
